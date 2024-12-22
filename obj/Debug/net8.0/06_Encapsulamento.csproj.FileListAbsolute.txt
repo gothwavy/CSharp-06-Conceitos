@@ -1,0 +1,14 @@
+E:\CSharp\POO\06_Encapsulamento\bin\Debug\net8.0\06_Encapsulamento.exe
+E:\CSharp\POO\06_Encapsulamento\bin\Debug\net8.0\06_Encapsulamento.deps.json
+E:\CSharp\POO\06_Encapsulamento\bin\Debug\net8.0\06_Encapsulamento.runtimeconfig.json
+E:\CSharp\POO\06_Encapsulamento\bin\Debug\net8.0\06_Encapsulamento.dll
+E:\CSharp\POO\06_Encapsulamento\bin\Debug\net8.0\06_Encapsulamento.pdb
+E:\CSharp\POO\06_Encapsulamento\obj\Debug\net8.0\06_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\POO\06_Encapsulamento\obj\Debug\net8.0\06_Encapsulamento.AssemblyInfoInputs.cache
+E:\CSharp\POO\06_Encapsulamento\obj\Debug\net8.0\06_Encapsulamento.AssemblyInfo.cs
+E:\CSharp\POO\06_Encapsulamento\obj\Debug\net8.0\06_Encapsulamento.csproj.CoreCompileInputs.cache
+E:\CSharp\POO\06_Encapsulamento\obj\Debug\net8.0\06_Encapsulamento.dll
+E:\CSharp\POO\06_Encapsulamento\obj\Debug\net8.0\refint\06_Encapsulamento.dll
+E:\CSharp\POO\06_Encapsulamento\obj\Debug\net8.0\06_Encapsulamento.pdb
+E:\CSharp\POO\06_Encapsulamento\obj\Debug\net8.0\06_Encapsulamento.genruntimeconfig.cache
+E:\CSharp\POO\06_Encapsulamento\obj\Debug\net8.0\ref\06_Encapsulamento.dll
